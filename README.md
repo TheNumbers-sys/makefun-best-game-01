@@ -1,8 +1,8 @@
 # STARSLING
 
-![best-game-01](https://make.fun/badge/best-game-01.svg)
-![rank](https://make.fun/badge/best-game-01/TheNumbers-sys/makefun-best-game-01/rank.svg)
-![reward](https://make.fun/badge/best-game-01/TheNumbers-sys/makefun-best-game-01/reward.svg)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/TheNumbers-sys/makefun-best-game-01/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/TheNumbers-sys/makefun-best-game-01/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 A gravity-slingshot arcade game. Launch a comet from its pad, let the
 planets bend its flight, and collect every star in the level before your
@@ -30,4 +30,5 @@ every sound is synthesised in code with WebAudio.
 ## Entry
 
 Built for the make.fun best-game-01 bounty:
+https://make.fun/bounty/best-game-01
 https://make.fun/r/erf1bht8
